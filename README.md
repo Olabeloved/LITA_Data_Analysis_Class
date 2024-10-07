@@ -51,7 +51,7 @@ WHERE CONDITION = TRUE
 
 ### Data Visualization
 
-![Barchart](https://github.com/user-attachments/assets/011ee502-505f-4c75-be6d-9ceb0755dce6)
+![Barchart](https://github.com/user-attachments/assets/8059ea1e-a708-43a2-b8d7-4ef0d46d59d9)
 
 
 ### Creating a Table

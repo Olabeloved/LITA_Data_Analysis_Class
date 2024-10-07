@@ -2,7 +2,19 @@
 
 ## Project Title: Introduction to Data Analysis
 
-### Project overview
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+### Project Overview
 ---
 
 This data analysis project aims to introduce you to the use of Excel for formatting, cleaning, and visualization of data. We will also go over the introduction of SQL for database creation and data manipulation. We aim to create compelling stories using data and know the best performances of our data.
@@ -41,5 +53,9 @@ WHERE CONDITION = TRUE
 
 ![Barchart](https://github.com/user-attachments/assets/011ee502-505f-4c75-be6d-9ceb0755dce6)
 
-![Alt text](images/barchart.png)
 
+### Creating a Table
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|

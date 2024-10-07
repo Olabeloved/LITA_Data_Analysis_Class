@@ -39,4 +39,7 @@ WHERE CONDITION = TRUE
 
 ### Data Visualization
 
-![Pivot data dashboard](https://github.com/user-attachments/assets/d25c62a1-48aa-419a-b845-9affebbe272c)
+![Barchart](https://github.com/user-attachments/assets/011ee502-505f-4c75-be6d-9ceb0755dce6)
+
+![Alt text](images/barchart.png)
+

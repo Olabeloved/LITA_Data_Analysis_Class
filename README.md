@@ -40,6 +40,3 @@ WHERE CONDITION = TRUE
 ### Data Visualization
 
 ![Pivot data dashboard](https://github.com/user-attachments/assets/d25c62a1-48aa-419a-b845-9affebbe272c)
-
-
-![Pivot data dashboard](https://github.com/user-attachments/assets/be8cb2ce-4be8-43dc-8f77-99abe6a15546)

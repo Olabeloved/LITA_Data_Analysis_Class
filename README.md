@@ -3,6 +3,7 @@
 ## Project Title: Introduction to Data Analysis
 
 ### Project overview
+---
 
 This data analysis project aims to introduce you to the use of Excel for formatting, cleaning, and visualization of data. We will also go over the introduction of SQL for database creation and data manipulation. We aim to create compelling stories using data and know the best performances of our data.
 
@@ -18,3 +19,19 @@ The primary source of data used here is LITA.CSV but data can be gotten from ope
   3. for data visualization
 - SQL: Structured Query Language for Querying Data
 - GitHub for Portfolio building
+
+### Data Cleaning and Preparations
+In the initial phase of the data cleaning and preparations, we perform the following action;
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involves diving into data to gain insights and identify patterns, using statistical techniques and visualization tools to explore the relationship between variables and uncover interesting trends
+
+### Data Analysis
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during my analysis;
+
+```SQL
+SELECT * FROM  TABLE1
+WHERE CONDITION = TRUE

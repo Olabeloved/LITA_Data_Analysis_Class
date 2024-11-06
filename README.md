@@ -33,7 +33,7 @@ The primary source of data used here is LITA.CSV but data can be gotten from ope
 - GitHub for Portfolio building
 
 ### Data Cleaning and Preparations
-In the initial phase of the data cleaning and preparations, we perform the following action;
+In the initial phase of the data cleaning and preparations, we perform the following actions;
 1. Data loading and inspection
 2. Handling missing variables
 3. Data cleaning and formatting
